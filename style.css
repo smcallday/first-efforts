@@ -62,11 +62,15 @@ li {
     padding-left: 16px;
 }
 
+#about {
+    padding: 48px 0; 
+}
+
 .row {
     width: 100%;
     max-width: 1300px;
     display: flex;
     align-items: center;
     justify-content: flex;
-    
+
 }
